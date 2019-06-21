@@ -1,0 +1,17 @@
+
+.one {display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: lightsteelblue}
+.box-1{background: linear-gradient(to bottom, mediumspringgreen, rgb(0, 255, 255)), repeat-y;}
+.top{display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-left: 5%;}
+.mine{position: absolute;
+left: 15%;
+top: opx;}
+.yours{padding-top: 5%;}
+.icon{ position: sticky;
+     top: 5%;
+     bottom: 5%}
